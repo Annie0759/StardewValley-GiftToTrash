@@ -1,0 +1,8 @@
+E:\Desktop\Projects\GiftToTrash\obj\Debug\net6.0\GiftToTrash.csproj.AssemblyReference.cache
+E:\Desktop\Projects\GiftToTrash\obj\Debug\net6.0\GiftToTrash.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Projects\GiftToTrash\obj\Debug\net6.0\GiftToTrash.AssemblyInfoInputs.cache
+E:\Desktop\Projects\GiftToTrash\obj\Debug\net6.0\GiftToTrash.AssemblyInfo.cs
+E:\Desktop\Projects\GiftToTrash\obj\Debug\net6.0\GiftToTrash.csproj.CoreCompileInputs.cache
+E:\Desktop\Projects\GiftToTrash\bin\Debug\net6.0\GiftToTrash.deps.json
+E:\Desktop\Projects\GiftToTrash\bin\Debug\net6.0\GiftToTrash.dll
+E:\Desktop\Projects\GiftToTrash\obj\Debug\net6.0\GiftToTrash.dll

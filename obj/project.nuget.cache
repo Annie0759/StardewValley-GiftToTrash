@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+xyVZ0QZrVNfKmsU8m1nU14aQSgcN8tRaE7xpbuPhJ65RqfMLVE0mXbEf+HXDXql3ONKMr8IV+vun3+lNvbdHg==",
+  "success": true,
+  "projectFilePath": "E:\\Desktop\\Projects\\GiftToTrash\\GiftToTrash.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HONOR\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.4.0\\pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

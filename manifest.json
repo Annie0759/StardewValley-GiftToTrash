@@ -1,0 +1,10 @@
+{
+  "Name": "GifToTrash",
+  "Author": "AnnieW",
+  "Version": "1.0.0",
+  "Description": "If the npc does not like your gifts, they may throw it into a trashcan that is related to them, and you might find it if you're digging around",
+  "UniqueID": "AnnieW.GiftToTrash",
+  "EntryDll": "GiftToTrash.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
