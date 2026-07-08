@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+xyVZ0QZrVNfKmsU8m1nU14aQSgcN8tRaE7xpbuPhJ65RqfMLVE0mXbEf+HXDXql3ONKMr8IV+vun3+lNvbdHg==",
+  "dgSpecHash": "2fd1jq/8ZiDkmjShOmhbCULyTkzwo3a5D6ClrZp/yuV3HQZaE8MRqGd/uDZkUzeDGu2quWr34lXzI4HCmWzdfQ==",
   "success": true,
   "projectFilePath": "E:\\Desktop\\Projects\\GiftToTrash\\GiftToTrash.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\HONOR\\.nuget\\packages\\lib.harmony\\2.4.2\\lib.harmony.2.4.2.nupkg.sha512",
     "C:\\Users\\HONOR\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.4.0\\pathoschild.stardew.modbuildconfig.4.4.0.nupkg.sha512"
   ],
   "logs": []

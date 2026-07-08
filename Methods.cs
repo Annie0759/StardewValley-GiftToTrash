@@ -52,13 +52,13 @@ namespace GiftToTrash
             double luckBonus = Game1.player.DailyLuck;
             double finalChance = luckBonus + baseChance;
 
-            Random r = new Random();
+            Random r = Game1.random;
             return r.NextDouble() <= finalChance;
         }
 
         private static void SaveItemToData(Item gift, string trashCanId){
             string itemKey = $"GiftToTrash.TrashItem.{trashCanId}";
-
+            
             // check if a gift already exists, add to it
             if (Game1.player.modData.TryGetValue(itemKey, out string? existingGifts) && !string.IsNullOrWhiteSpace(existingGifts)){
                 Game1.player.modData[itemKey] = $"{existingGifts},{gift.QualifiedItemId}";
